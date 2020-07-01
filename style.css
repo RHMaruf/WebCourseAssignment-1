@@ -1,0 +1,174 @@
+body{
+    font-family: 'Poppins',sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size:  40px;
+    
+}
+p{
+    color: dimgray;
+}
+.name-highlight{
+    color: rgb(236,76,122);
+    font-weight: 700;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    
+}
+#introduction{
+    margin-left: 5%;
+    padding-top: 200px;
+    padding-left: 100px;
+   
+}
+#top-image{
+    padding-top: 50px;
+    padding-right: 0px;
+   
+}
+#middle-image{
+   
+    padding-top: 5%;
+    padding-left: 100px;
+   
+}
+#biography{
+    padding-top: 25%;
+    padding-left: 40px;
+   
+}
+.half-width img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,rgb(236,80,147),rgb(236,75,115));
+}
+
+#top-section{
+    height: 700px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+   
+}
+#middle-section{
+    height: 800px;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    
+}
+#work-section{
+    height: 600px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+
+}
+#skill-section{
+    height: 600px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+
+}
+#bottom-section{
+    height: 600px;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+
+}
+#work-title{
+    text-align: center;
+}
+
+#latest-work-parent{
+    max-height: 800px;
+    padding: 50px 100px;
+    
+}
+
+
+.one-thired img{
+    width: 30%;
+    padding: 1.3%;
+    float: left;
+}
+
+#skill-parent{
+    max-height: 800px;
+    padding: 50px 100px;
+    
+}
+
+.single-skill{
+    width: 20%;
+    height: 20%;
+    margin: 2%;
+    float: left;
+    box-shadow: 4px 2px 30px black;
+    text-align: center;
+    color: rgb(236,75,115);
+    border-radius: 10px;
+}
+
+.center-text{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-size: 15px;
+}
+
+
+#quite-div{
+    
+    height: 100px;
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#quite-div p{
+    padding :0px;
+    color : black !important;
+    line-height: 1.8;
+}
+
+#email-address-div{
+    
+    height: 100px;
+    width: 550px;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(236,75,115);
+    border-radius: 10px;
+}
+
+
+
+
+
+#email-address-div h5{
+    color : white;
+    padding-top: 20px;
+}
+
+#email-address-div a{
+    color : white;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    display: block;
+    
+}
